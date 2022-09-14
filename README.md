@@ -41,3 +41,6 @@
  
   1. Diana DeGette who received 73.8% of votes and 272,892 number of votes.
   2. Denver, received largest county turnout.
+  
+ ## Election Audit Summary
+  We can do the same process by using Excel, but to Automate the process, we are using Python. We can use this code not only for congressional precinct but  we can  use it  for senatorial elections and local elections as well.
