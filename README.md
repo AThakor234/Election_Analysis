@@ -43,4 +43,4 @@
   2. Denver, received largest county turnout.
   
  ## Election Audit Summary
-  We can do the same process by using Excel, but to Automate the process, we are using Python. We can use this code not only for congressional precinct but  we can  use it  for senatorial elections and local elections as well.
+  We can do the same process by using Excel, but to Automate the process, we are using Python. We can use this code not only for congressional precinct but  we can  use it  for senatorial elections and local elections as well.We can modify this script by adding extra column named as Age. So , in future if we want to calculate the votes according to age groups can be more easier. Secondly, we can also find votes based on gender by adding column named as Gender.
